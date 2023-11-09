@@ -1,0 +1,48 @@
+
+
+
+body {
+background-color: lightblue;
+}
+
+h1{
+color: white;
+text-align: center;
+}
+
+h2{
+font-family: verdana;
+font-size: 33px;
+background-color: pink;
+color: purple; 
+}
+
+h3 {
+border-style: dotted;
+height: 200px;
+}
+
+h4 {
+border: 15xp solid green;
+}
+
+p {
+color: red
+}
+
+img {
+width: 200px;
+height: 333px;
+margin-left: 111px;
+}
+
+table, th, td {
+border: 3px solid;
+}
+
+table {
+width: 100%;
+}
+
+
+
